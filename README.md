@@ -35,7 +35,6 @@ Each recommendation includes:
 ### 📌 Similar Book Recommendations  
 ![Similar Books](https://github.com/shivamsahu2001/Book_Recommendation_Feedback_System/blob/main/Book_Recommendations.png)
 
-> Create an `images/` folder in your repo and upload screenshots there.
 
 ---
 
@@ -167,4 +166,4 @@ http://localhost:8501/
 ---
 
 # 📄 License
-MIT License  
+This project is licensed under the shivamsahu2001 License.
