@@ -30,12 +30,10 @@ Each recommendation includes:
 # 🖼️ Screenshots
 
 ### 📌 Popularity-Based Top 50 Books  
-Add your screenshot here after uploading to GitHub:
-![Top 50 Books](images/popularity_screenshot.png)
+![Top 50 Books](https://github.com/shivamsahu2001/Book_Recommendation_Feedback_System/blob/main/Popularity_Based.png)
 
 ### 📌 Similar Book Recommendations  
-Add your screenshot here:
-![Similar Books](images/recommendation_screenshot.png)
+![Similar Books](https://github.com/shivamsahu2001/Book_Recommendation_Feedback_System/blob/main/Book_Recommendations.png)
 
 > Create an `images/` folder in your repo and upload screenshots there.
 
